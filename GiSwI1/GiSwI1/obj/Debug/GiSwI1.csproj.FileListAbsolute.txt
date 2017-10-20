@@ -1,0 +1,13 @@
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\bin\Debug\GiSwI1.exe.config
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\bin\Debug\GiSwI1.exe
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\bin\Debug\GiSwI1.pdb
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\obj\Debug\GiSwI1.csprojResolveAssemblyReference.cache
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\obj\Debug\GiSwI1.exe
+D:\Szkoła\C# Projekty\GiSwI1\GiSwI1\obj\Debug\GiSwI1.pdb
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\bin\Debug\GiSwI1.exe.config
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\bin\Debug\GiSwI1.exe
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\bin\Debug\GiSwI1.pdb
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\obj\Debug\GiSwI1.csprojResolveAssemblyReference.cache
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\obj\Debug\GiSwI1.csproj.CoreCompileInputs.cache
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\obj\Debug\GiSwI1.exe
+C:\Users\MolekM\OneDrive\ATH MGR\GiSwI\GitHub\GiSwI1\GiSwI1\obj\Debug\GiSwI1.pdb
